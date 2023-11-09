@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dataReminder-withReact/static/css/main.28c1d168.css",
+    "main.js": "/dataReminder-withReact/static/js/main.e013e414.js",
+    "index.html": "/dataReminder-withReact/index.html",
+    "main.28c1d168.css.map": "/dataReminder-withReact/static/css/main.28c1d168.css.map",
+    "main.e013e414.js.map": "/dataReminder-withReact/static/js/main.e013e414.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28c1d168.css",
+    "static/js/main.e013e414.js"
+  ]
+}
